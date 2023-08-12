@@ -9,7 +9,7 @@ function calculate(){
 function clean(){
     result.value = '';
 }
-//function to notice keyPress and perform neccesary operations
+//function to notice keyPress and perform  operations
 document.addEventListener("keydown",function(event){
     switch(event.key){
         case "c":
